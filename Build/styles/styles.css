@@ -1,0 +1,16 @@
+/*Styles*/
+.keys div {
+  display: inline-block;
+  background: black;
+  border-radius: 4px;
+  color: white;
+  padding: 12px;
+  font-size: 0.6em;
+}
+#esc .fa-stack-1x {
+  font-size:0.5em;
+}
+.function .fa-stack-1x {
+  font-size:0.5em;
+  position:absolute;
+}
