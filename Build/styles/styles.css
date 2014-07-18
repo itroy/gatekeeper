@@ -1,11 +1,20 @@
 /*Styles*/
+.keyboard {
+  text-align:left;
+}
 .keys div {
   display: inline-block;
   background: black;
   border-radius: 4px;
   color: white;
+  font-size: 0.4em;
   padding: 12px;
-  font-size: 0.6em;
+  text-align: center;
+}
+#fnc-row.keys div {
+  width:36px;
+  padding: 6px 12px;
+  margin-bottom: 3px;
 }
 #esc .fa-stack-1x {
   font-size:0.5em;
